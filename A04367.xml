@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Hodos tethlimmēnē. = The narrow way to glory. Delivered in a sermon, by the Archdeacon of Shrewsbury</title>
+            <author>Jeffray, William.</author>
+         </titleStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 25 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A04367</idno><idno type="EEBO-CITATION">99835996</idno>
+  <idno type="VID">235</idno>
+  <idno type="EEBO-PROQUEST">2248553056</idno>
+  <idno type="STC">STC 14482</idno>
+  <idno type="STC">ESTC S100144</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99835996e"/>
+            <note>(EEBO-TCP ; phase 2, no. A04367)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 235)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1313:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Hodos tethlimmēnē. = The narrow way to glory. Delivered in a sermon, by the Archdeacon of Shrewsbury</title>
+                  <author>Jeffray, William.</author>
+               </titleStmt>
+               <extent>[8], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>By T. Cotes for Richard Hawkins, and are to be sold at his shop in Chancery Lane, neare the Rowles,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1634.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Archdeacon of Shrewsbury = William Jeffray.</note>
+                  <note>The first two words of the title in Greek characters.</note>
+                  <note>Running title reads: The narrow way to glory.</note>
+                  <note>Entered in the Stationers' Register December 6, 1633.</note>
+                  <note>Pp. 15-16 stained, print missing. Some print show-through.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:235:1"/>
+            <pb facs="tcp:235:1"/>
+            <p>ΟΔΟΣ ΤΕΘΛΙΜΜΗΝΗ.</p>
+            <p>THE NARROW WAY TO GLORY.</p>
+            <p>Delivered in a Sermon, by the Archdeacon of <hi>Shrewsbury.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>Regnum Dei conceditur, promittitur, ostenditur, percipitur. Conceditur in Pradestinatione, Promittitur in Voca<g ref="char:EOLhyphen"/>tione, Ostenditur in Iustificatione, Per<g ref="char:EOLhyphen"/>cipitur in Glorificatione,—In Pradestinatione est Gratia, in Vocati<g ref="char:EOLhyphen"/>one Potentia, in Iustificatione Laetitiae, in Magnificatione Gloria.</hi>
+               </p>
+               <bibl>Bern. in Ser<g ref="char:EOLhyphen"/>de verb. Sap. <hi>Iustum diduxit, &amp;c.</hi>
+               </bibl>
+            </q>
+            <p>Printed at London by <hi>T. Cotes</hi> for <hi>Richard Hawkins,</hi> and are to be sold at his shop in Chancery Lane, neare the <hi>Rowles,</hi> 1634.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:235:2"/>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Decemb.</hi> 4. 1633.</date>
+               </dateline>
+            </opener>
+            <p>PErlegi hanc concionem habitam a M<seg rend="sup">r</seg>. <hi>Ieffray,</hi> cui titulus (The nar<g ref="char:EOLhyphen"/>row way to glory) unâ cum Epi<g ref="char:EOLhyphen"/>stola Dedicatoria &amp; Prefatione ad lecto<g ref="char:EOLhyphen"/>rem; qui quidem liber continet folia 5. &amp; paginam insuper unam: in quibus nil reperio sanae Doctrinae aut bonis mori<g ref="char:EOLhyphen"/>bus contrarium, quo minus cum publica utilitate imprimatur, sub ea tamen con<g ref="char:EOLhyphen"/>ditione ut si non intratres Menses typis fuerit mandatus, haec licentia sit omni<g ref="char:EOLhyphen"/>nò irrita.</p>
+            <closer>
+               <signed>Guilielmus Haywood, Arch. Cantuar. Capell. domesticus.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:235:2"/>
+            <head>TO THE RIGHT Worshipfull, my most worthy, and much honoured Vncles.
+<list>
+                  <item>
+                     <hi>Iames Pagitt,</hi> one of the Barons of his Majesties most honoura<g ref="char:EOLhyphen"/>ble Court of Ex<g ref="char:EOLhyphen"/>chequer.</item>
+                  <item>
+                     <hi>Charles Twysden,</hi> Dr of the Lawes, and Chancellor of the Dioces of Coventrry and Leich field.</item>
+               </list>
+            </head>
+            <head type="sub">Prosperity in this life temporall, and glory in that which is eternall.</head>
+            <opener>
+               <salute>Right worshipfull.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince it hath pleased Al<g ref="char:EOLhyphen"/>mighty God to unite me by that sacred bond into both your families, I have alwayes thought which way
+<pb facs="tcp:235:3"/>I might best tender my duty and service to your selves, as also to the memory of that religious Gen<g ref="char:EOLhyphen"/>tlewoman, my most honoured Aunt, sister to the one, and wife to the other, whose religious life and happy death, conclude her now to be a Saint in heaven; but finding my owne weakenesse, I have beene thus long silent, yet since it hath pleased one of you to wish me to let this Sermon see the world: I would not deny such a just re<g ref="char:EOLhyphen"/>quest, to me I confesse a powerfull Command. And since your true affe<g ref="char:EOLhyphen"/>ction, hath linked you together in one sincere love, I would not se<g ref="char:EOLhyphen"/>ver you in this Paper Present; if any good may be reaped by the publication of it, I desire the glory may be given to God, and thankes to you, by whose favour I live more happily; This, they that know
+<pb facs="tcp:235:3"/>me, know, and I desire that the world may know, that I am</p>
+            <closer>
+               <dateline>From my house at<lb/> Hamstall-Rydvvare<lb/>
+                  <date>this 1 of Ianuary.<lb/> 1634.</date>
+               </dateline>
+               <signed>Your most bounden<lb/> Nephew in all duty<lb/> and service,<lb/>
+                  <hi>William Ieffray.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:235:4"/>
+            <head>TO THE E<g ref="char:EOLhyphen"/>quall Reader.</head>
+            <opener>
+               <salute>Good Reader.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">L</seg>Et me intreat thee not to play the Critique, nor seeke a knot in an even rush: if thou fin<g ref="char:EOLhyphen"/>dest any thing that pleaseth thee,
+<note place="margin">Per<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ege si place<g ref="char:EOLhyphen"/>at; Neg<g ref="char:EOLhyphen"/>lige ni placeat.</note> accept it, if other<g ref="char:EOLhyphen"/>wise reject it. It may be I shall dif<g ref="char:EOLhyphen"/>fer in some discoveries, from men of greatest eminencie, and such whom I vow from my heart, I doe truely honour; but the difference as I take it, is so little, that a not<g ref="char:EOLhyphen"/>prejudiciall eye, will hardly dis<g ref="char:EOLhyphen"/>cerne it. For my part I vow, my thoughts and words and workes shall all be squared according to the rule of doctrine of the Church of England; and if I erre I shall be
+<pb facs="tcp:235:4"/>as willing to be corrected as com<g ref="char:EOLhyphen"/>mended: yet if I be not in love with my owne Minerva, me thinkes I make the two sacred Apostles (ac<g ref="char:EOLhyphen"/>cording to their sever all intents in writing) happily to embrace and kisse one another. Whatsoever is done, I referre it to the censure of the Church of England, in whose bosome I desire to rest, as also by thy kinde acceptance of these my endevours, to remains</p>
+            <closer>
+               <signed>
+                  <hi>Thy more deepely engaged<lb/> friend in the Lord Iesus,</hi>
+                  <lb/> W. Ieffray.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:235:5"/>
+            <head>Errors escaped.</head>
+            <p>PAge 12. line 21. read bring for being. p. 15. l. 26. r. temporally for temporall. p. 17. l. 5. r. collated for collected.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:235:5"/>
+            <head>THE NARROW way to Glory.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>MATH. 5.20.</hi>
+                  </bibl>
+                  <p>Except your righteousnesse ex<g ref="char:EOLhyphen"/>ceed the righteousnesse, &amp;c.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">W</seg>Hen the <hi>Wisedome</hi> of the world had discovered a <hi>World</hi> of wisedome to the multitude as<g ref="char:EOLhyphen"/>sembled, by shewing them how by eight severall Conduites bles<g ref="char:EOLhyphen"/>sednesse might bee convayed to their soules; as by poverty of spirit, mourning, meekenesse, hungring and thirsting after righteousnesse, mercy, purity of heart, peace-making, and suffe<g ref="char:EOLhyphen"/>ring
+<pb n="2" facs="tcp:235:6"/>of persecution, he comes to turne his speech to his blessed Apostles, instructing them first by position what they should be, namely, the salt of the earth, and the light of the world; salt in seasoning, light in shining: salt in seasoning the earth by purity of their doctrine, light in shining to the world by their piety of living, joyning pure conversation to hea<g ref="char:EOLhyphen"/>venly speculation, that so they might bee not the least but the greatest in the Kingdome of hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>And then by negation in shew<g ref="char:EOLhyphen"/>ing unto them what they should not be, namely not like unto the Scribes and Pharises; for though they taught well, yet they wrought ill, whose righteousnesse if we exceede not, there will bee no entrance for us into the king<g ref="char:EOLhyphen"/>dome of heaven. So saith our Sa<g ref="char:EOLhyphen"/>viour in the words of this text <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: I say unto you: God saith it, the truth saith it, the
+<pb n="3" facs="tcp:235:6"/>Iudge saith it, <hi>Except your righ<g ref="char:EOLhyphen"/>teousnesse exceed that of the Scribes and Pharisees, you shall in no case enter into the Kingdome of heaven.</hi>
+            </p>
+            <p>In the words I shall commend these foure Theoremes to your Christian considerations. First, that there is an entrance to the Kingdome of Heaven, for he that sayd, <hi>Except your righteousnesse doth exceed the righteousnes of the Scribes and Pharisees, ye shall not enter, &amp;c.</hi> doth inferre, that if our Righteousnesse doth exceede that of the Scribes and Pharisees, we shall enter into the Kingdome of heaven, ther's our hope.</p>
+            <p>Secondly, that the entrance to the Kingdome of heaven must bee by righteousnesse, for righte<g ref="char:EOLhyphen"/>ousnesse entreth into the king<g ref="char:EOLhyphen"/>dome of heaven; <hi>'tis righteousnesse alone that dwelleth in the New Heaven and New earth:</hi> 2 <hi>Pet.</hi> 3, 13. There is our way.</p>
+            <p>Thirdly, righteousnesse that
+<pb n="4" facs="tcp:235:7"/>thus enters into the Kingdome of heaven, must be our owne; your righteousnesse entreth into the kingdome of heaven, there is our worke.</p>
+            <p>Fourthly, this our righteous<g ref="char:EOLhyphen"/>nesse that enters into the king<g ref="char:EOLhyphen"/>dome of heaven, must be an <hi>ex<g ref="char:EOLhyphen"/>ceeding</hi> righteousnesse, <hi>For except your righteousnesse exceed, &amp;c.</hi> There is our square and rule.</p>
+            <p>So that we have in these words hope to comfort us, for there is an entrance to the kingdome of heaven.</p>
+            <p>Secondly, we have here a way directing us unto this hope, for righteousnesse enters into the kingdome of heaven.</p>
+            <p>Thirdly, we have here a worke to entertaine us in this way, for your righteousnesse enters into the Kingdome of heaven.</p>
+            <p>And lastly, we have a Rule to square out this blessed worke, <hi>for it must exceede the righteousnesse of the Scribes and Pharisees, or
+<pb n="5" facs="tcp:235:7"/>else in no case shall wee enter into the Kingdome of heaven.</hi>
+            </p>
+            <p>In a word, we have a <hi>Square</hi> to rule our soules in that heavenly <hi>worke,</hi> which busies us in the <hi>Way</hi> that leades our <hi>Hopes</hi> to eternall happinesse; for if our righteous<g ref="char:EOLhyphen"/>nesse doe exceede the righteous<g ref="char:EOLhyphen"/>nesse of the Scribes and Pharisees, we shall be sure to enter into the kingdome of heaven: of these then in their order.</p>
+            <p>The first thing observed though it be last in my Text, is, <hi>that there is an entrance into the kingdome of heaven,</hi> for <hi>a Fine principiuns,</hi> I must begin at the end, at the king<g ref="char:EOLhyphen"/>dome of heaven, which is both the beginning and the end, being both A and Ω, the first thing wee desire, and the last thing that shall satisfie our desire: For as <hi>Eze<g ref="char:EOLhyphen"/>chiels</hi> waters were not healed, till they came unto the Sea: no more shall our soules bee satisfied till they come to that Ocean of de<g ref="char:EOLhyphen"/>light, to the kingdome of heaven.</p>
+            <pb n="6" facs="tcp:235:8"/>
+            <p> Now the kingdome of heaven is taken two wayes, as Saint <hi>Au<g ref="char:EOLhyphen"/>gustine</hi> teacheth <hi>(Alio modo est intelligendum ubiambo sunt,
+<note place="margin">
+                     <hi>De civ. Dei. lib.</hi> 20. <hi>c.</hi> 9.</note> &amp; ille qui solvit quod docet, &amp; ille qui fa<g ref="char:EOLhyphen"/>cit. Alio modo quô non <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntrat nisi qui facit)</hi> One way it is taken where both are, he that doth not that which he teacheth, and hee that doth it. Another way where none enters but he that doth the will of the Father, according to that of our Saviour,
+<note place="margin">Mat. 7.21</note>
+               <hi>He that doth the will of my Father, shall enter into the Kingdome of heaven.</hi> In the first there is tares as well as Wheate, there is chaffe as well as corne, there are Goates as well as Sheepe, till the day of the sepa<g ref="char:EOLhyphen"/>ration comes; and then in the se<g ref="char:EOLhyphen"/>cond, the chaffe shall vanish, the corne shall flourish, the tares shall be burned, the wheate shall be fa<g ref="char:EOLhyphen"/>ved, the Goates shall be rejected, the Sheepe elected, the one shall be made the examples of Gods justice, the other of his mercie.
+<pb n="7" facs="tcp:235:8"/>The first of these is the Kingdome of Grace, in the Church Militant. The second is the Kingdome of Glory in the Church Triumphant: and of this latter our blessed Sa<g ref="char:EOLhyphen"/>viour speaketh, <hi>Except your righ<g ref="char:EOLhyphen"/>teousnesse exceed, &amp;c.</hi>
+            </p>
+            <p>And this is the reward that mans hope aspires unto: being not a Cottage, but a Kingdome, not a temporary, but an everla<g ref="char:EOLhyphen"/>sting Kingdome; not an everla<g ref="char:EOLhyphen"/>sting Kingdome of men, but of God; not an everlasting King<g ref="char:EOLhyphen"/>dome of God in earth, but in Heaven. Each steppe elevates our hope till we come to the per<g ref="char:EOLhyphen"/>fection of joy, in the everlasting Kingdome of God in Heaven, whose joyes farre further exceed the delights of this world, than the delights of this world exceed those (if wee could remember) which we enjoyed in our mothers wombe.</p>
+            <p>For there is rest without tra<g ref="char:EOLhyphen"/>vaile, refreshing without weari<g ref="char:EOLhyphen"/>nesse,
+<pb n="8" facs="tcp:235:9"/>peace without contention, happinesse without sinne, and glory without shame. Nay: <hi>The eye hath not seene,
+<note place="margin">1 Cor. 2.9.</note> The eare hath not heard, neither hath it at any time entred into the heart of Man to conceive what things God hath prepared for them that love him:</hi> And shall flesh and blood enter into this kingdome? shall fraile man be made the heyre of Eterni<g ref="char:EOLhyphen"/>ty? and those that dwell now in houses of Clay, dwell for ever in houses of Glory? Yes cortain<g ref="char:EOLhyphen"/>ly: for though <hi>Adam</hi> lost Para<g ref="char:EOLhyphen"/>dise by his prevarication: yet Christ did repurchase it by his death and passion: Tis true, the Gates of heaven were shut by mans sinne: but they are open by Gods Sonne,
+<note place="margin">Hier.</note>
+               <hi>&amp; sanguis Christi fit clavis Paradisi:</hi> the blood of Christ, is become the key of Pa<g ref="char:EOLhyphen"/>radise.</p>
+            <p>Since then our head is entred, wee are sure the members shall not be excluded; for to what end
+<pb n="9" facs="tcp:235:9"/>did he ascend to the glory of his Father,
+<note place="margin">Ioh. 14.2</note>
+               <hi>but to provide a place for us?</hi> To this, all the actions and passions of our Saviour tended, and for this, he hartily prayes,
+<note place="margin">Ioh. 17.24.</note>
+               <hi>that we may be with him to see his glo<g ref="char:EOLhyphen"/>ry.</hi>
+            </p>
+            <p>And this is that, that quickens our confidence, for as Saint <hi>Augu<g ref="char:EOLhyphen"/>stine</hi> noteth <hi>Est in Christo Iesu v<g ref="char:EOLhyphen"/>niuscujusque nostrûm caro &amp; san<g ref="char:EOLhyphen"/>guis, ubi portio mea regnat, ibi me regnaere contendo, &amp;c.</hi> that is, There is in Christ Iesus, the flesh and blood of every one of us, where a part of me reigneth, there am I sure I shall also reigne: hee tooke my flesh into heaven, to be a pledge unto us, that the whole lumpe shall be one day gathered together there. What then needs a Christian to feare? whose head already is in the fruition of Glo<g ref="char:EOLhyphen"/>ry:
+<note place="margin">De Res-Caru.</note>
+               <hi>securi estote Caro &amp; sanguis</hi> (saith <hi>Tertullian</hi>) <hi>&amp;c.</hi> Be yee se<g ref="char:EOLhyphen"/>cure O flesh and blood; once it was sayd: Earth thou art, and to
+<pb n="10" facs="tcp:235:10"/>earth thou shalt returne, but now it is sayd, earth thou art, and to heaven thou shalt ascend; for though our bodyes, for a while shall rest in our graves, yet wee shall arise, and that according to the glory of the body of Christ, But <hi>Quis ad haec ido<g ref="char:EOLhyphen"/>neus?</hi> Who is fit for these things? Surely they that sow the seede of righteousnesse: for they are sure to reape the crop of blessednesse, which is the second thing obser<g ref="char:EOLhyphen"/>ved, Righteousnesse entreth into the Kingdome of Heaven.</p>
+            <p>The entrance then into this Kingdome, is by the way of righ<g ref="char:EOLhyphen"/>teousnesse; for if uncleanenesse en<g ref="char:EOLhyphen"/>tred not into the campe: how (shall we thinke) that it shall as<g ref="char:EOLhyphen"/>cend above the Cloudes?
+<note place="margin">Rev. 22.15.</note>
+               <hi>Dogges, Sorcerers, Whoremongers, Mur<g ref="char:EOLhyphen"/>derers, Idolaters, and all that love and make a lye, are exiled for ever from the new Hierusalem: onely he that walketh uprightly and wor<g ref="char:EOLhyphen"/>keth righteousnesse,
+<note place="margin">Psal. 15.1, 2.</note> shall dwell for
+<pb n="11" facs="tcp:235:10"/>ever upon the mountaine of holi<g ref="char:EOLhyphen"/>nesse:</hi> Alas then, in what misera<g ref="char:EOLhyphen"/>ble estate are wee, who may say with <hi>Iob</hi> that <hi>Corruption is our Father,</hi>
+               <note place="margin">Iob 17.14.</note> for we are farre estranged from the Kingdome of heaven: how farre? <hi>Ferus</hi> a Fryar will dis<g ref="char:EOLhyphen"/>cover in three Theoremes. 1.
+<note place="margin">Fer. in h<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> verb. ser.</note>
+               <hi>Ab<g ref="char:EOLhyphen"/>sque justitia neminem salvari.</hi> 2. <hi>Neminem esse justum nisi per ob<g ref="char:EOLhyphen"/>servantiam legis.</hi> 3. <hi>Neminem ex seipso legem implevisse vel posse im<g ref="char:EOLhyphen"/>plere,</hi> that is, 1. Without Iustice or righteousnesse none can be sa<g ref="char:EOLhyphen"/>ved. 2. None can bee just or righteous but by the <hi>Exact</hi> per<g ref="char:EOLhyphen"/>formance of the whole law. 3. No man ever did, no man ever can (Christ Iesus onely excepted) performe the whole law exactly as God requireth. Now then take a view of thine owne estate, No man did or can fulfill the law; No man that fulfilleth not the law can be just or righteous, And no man that is not just or righteous can bee saved or enter into the
+<pb n="12" facs="tcp:235:11"/>kingdome of heaven: Enter then we cannot without righteousnes; righteous we cannot bee without performance of the law: the law we cannot performe in our selves, and therefore are farre from the kingdome of heaven.</p>
+            <p>Let us consider this a little more deepely, for wee are all wrapped in the ragges of iniquity, and come into this world clothed in the clouts of shame: <hi>Adam's</hi> fall divested us of that innocency, in which our righteous God had formerly invested us, and the shame of his nakednesse, discove<g ref="char:EOLhyphen"/>red the nakednesse of our shame.</p>
+            <p>For by this hereditary corrup<g ref="char:EOLhyphen"/>tion, our Fathers begat us <hi>Dam<g ref="char:EOLhyphen"/>natos priusquam natos,</hi> Damned before borne, and we being into the world, the sentence of damna<g ref="char:EOLhyphen"/>tion written in our forehead, <hi>and are by nature the children of wrath</hi> lyable to the curse of God:
+<note place="margin">Eph. 2, 3.</note> and therefore as <hi>Ferus</hi> excellently ob<g ref="char:EOLhyphen"/>serveth in the place before men<g ref="char:EOLhyphen"/>tioned:
+<pb n="13" facs="tcp:235:11"/>
+               <hi>Alterius &amp; aliena justitia nobis succurrere necesse est,
+<note place="margin">Ferus: quo su<g ref="char:EOLhyphen"/>pra:</note> quoni<g ref="char:EOLhyphen"/>am propria nostra justitia infirma est nimis:</hi> that is, It is necessary to helpe our selves by the justice of another, for our owne is too weake to performe the deed; for if the starres be impure in Gods pure eyes, how impure shall wee judge our selves to be, that drink iniquity like waters, and have wandred farre from the way of life? See then the abundant loving kindnesse of the Lord, who indea<g ref="char:EOLhyphen"/>vours to stay the vengeance of his just fury, that he may receive us to his saving mercy, and in lieu of our punishment, which our sinnes had deserved, to give unto us that Glory which our righte<g ref="char:EOLhyphen"/>ousnesse could never have deser<g ref="char:EOLhyphen"/>ved: and by the righteousnesse of his Sonne, not onely to make an attonement for mans sinne, but also to open the Kingdome of heaven to all beleevers; for, for our sakes the Father spared not
+<pb n="14" facs="tcp:235:12"/>his Sonne, nor his Son, himselfe; that he might worke out our sal<g ref="char:EOLhyphen"/>vation in the midst of the earth. Heere we may seethe truth of the Type of <hi>Abrahams</hi> sacrificing of his sonne <hi>Isaac;</hi> for heere God suffers his Sonne to sacrifice him<g ref="char:EOLhyphen"/>selfe, to perfect the worke of mans Redemption: onely here is the difference, there the beast was sacrificed and the sonne saved, but heere the Sonne is sacrificed, that the beasts may be saved, even we who are worse than Oxen and Asses,
+<note place="margin">Isa. 1.3.</note> for <hi>the Asse knoweth his owner, and the Oxe his masters Crib, but we have not knowne our God;</hi> whose love yet is so great, that because our Saviour him<g ref="char:EOLhyphen"/>selfe could not finde words to ex<g ref="char:EOLhyphen"/>presse it, he was compelled to in<g ref="char:EOLhyphen"/>clude it, in the word <hi>So: So God loved the world,
+<note place="margin">Ioh. 3.16</note> that he gave his onely begotten Sonne, that whoso<g ref="char:EOLhyphen"/>ever beleeved in him, should not perish, but have everlasting life,</hi> that is <hi>So:</hi> even so much as if a
+<pb n="15" facs="tcp:235:12"/>man had the tongues of Men and Angells, yet he would fall short in the expression of it; for who can expresse the noble acts of the Lord, in justifying the ungodly, and freeing him from the burthen of his sinne?</p>
+            <p>And this God worketh two wayes, 1. by an actuall conjuncti<g ref="char:EOLhyphen"/>on of Christ to us. 2. By the spi<g ref="char:EOLhyphen"/>rituall operation of Christ in us.</p>
+            <p>First, I say God maketh us righteous by the Actuall conjun<g ref="char:EOLhyphen"/>ction of Christ to us; for he that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the beginning of the world, made the old hea<g ref="char:EOLhyphen"/>ven, and the old earth, for us by the Word: did also <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in the end of the world, make the Word a new heaven and a new earth, fo<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us; Christ the hea<g ref="char:EOLhyphen"/>ven of God being from all eter<g ref="char:EOLhyphen"/>nities God of God, was made the earth of man, being temporall, Man of man, like unto us in all things (sinne onely excepted)
+<pb n="16" facs="tcp:235:13"/>Hence he is called <hi>the flower of Iesse;</hi>
+               <note place="margin">Isay 11.1</note> for as the flower hath <hi>Solem in Caelo patrem, &amp; Solum in Ter<g ref="char:EOLhyphen"/>ra matrem,</hi> The Sunne in heaven for its Father, and the Soyle in earth, for its mother. So Christ Iesus hath his Father in heaven without a Mother, and his Mo<g ref="char:EOLhyphen"/>ther on earth without a Father, being (as <hi>Thomas Aquinas</hi> ele<g ref="char:EOLhyphen"/>gantly notes;
+<note place="margin">
+                  <hi>Tho. Aqu part.</hi> 3. <hi>qu.</hi> 31. <hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rt.</hi> 5.</note>
+               <hi>Secundum huma<g ref="char:EOLhyphen"/>nam naturam natus ex Foemina, &amp; supra humanam natur am natus ex Virgine</hi>) according to humane na<g ref="char:EOLhyphen"/>ture borne of a woman, and above humane nature borne of a Virgin: thus farre the Sonne of God aba<g ref="char:EOLhyphen"/>sed himselfe, to become the Sonne of man, that by him the sonnes of men might be advanced to be the Sonnes of God. For, for us men he came downe fr<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> heaven, and was incarnate by the holy Ghost, of the Virgin <hi>Mary,</hi> and was made man: as the Nicene Coun<g ref="char:EOLhyphen"/>cell teacheth us to beleeve.</p>
+            <p>So that by this happy and hea<g ref="char:EOLhyphen"/>venly
+<pb n="17" facs="tcp:235:13"/>combination of God and Man in an Hypostaticall or per<g ref="char:EOLhyphen"/>sonall Vnion, our sinnes are translated to Christ, and his righ<g ref="char:EOLhyphen"/>teousnesse is collected upon us: For what did wee lay upon his shoulders but sinne the mother, and sorrow the daughter of sinne? so saith the Propheticall Evange<g ref="char:EOLhyphen"/>list,
+<note place="margin">Esay 53. 5.</note>
+               <hi>Hee was wounded for our Transgressions, He was bruised for our iniquities, the Chastise<g ref="char:EOLhyphen"/>ment of our Peace fell upon him, &amp; by his stripes we are healed;</hi> and a little before: <hi>Surely he hath borne our greifes, and carryed our sor<g ref="char:EOLhyphen"/>rowes.</hi> In a word, our soules were polluted to make him shed his blood, and he shed his blood to clense the pollutions of our soules.</p>
+            <p>Who heares this, and doth not tremble? who knowes it, and doth not feare? Must my sinnes, (oh blessed Iesus) be the cause of thy sufferings? and must my life be restored by thy death? must
+<pb n="18" facs="tcp:235:14"/>Eternity dye that mortality may live? and God bcc punished, that man may be pardoned? must thy righteousnesse bee condemned, that my unrighteousnes might be absolved? Me thinkes I can hard<g ref="char:EOLhyphen"/>ly containe, but must cry with Saint <hi>Peter,
+<note place="margin">Ioh, 13.8</note> Lord, thou shalt not wash my feete for ever:</hi> Thou shalt not wash me in thy teares, in thy sweating, in thy blood; why should I lay my sorrowes upon thy shoulders, or my disobedi<g ref="char:EOLhyphen"/>ence upon the backe of thy obe<g ref="char:EOLhyphen"/>dience,? But me thinkes I heare Christ answering mee as hee an<g ref="char:EOLhyphen"/>sweared Saint <hi>Peter, if I wash thee not, thou hast no portion in me:</hi> what no portion in Iesus? no por<g ref="char:EOLhyphen"/>tion in my Saviour? then certain<g ref="char:EOLhyphen"/>ly I am of all men the most mise<g ref="char:EOLhyphen"/>rable: Wash us then (oh thou pre<g ref="char:EOLhyphen"/>server of men) <hi>wash not onely our feete, but our hands also, and our heades.</hi> Wash the feete of Affe<g ref="char:EOLhyphen"/>ctions, the head of our Inven<g ref="char:EOLhyphen"/>tions, and the hands of our Exe<g ref="char:EOLhyphen"/>cutions,
+<pb n="19" facs="tcp:235:14"/>that we may never love, nor thinke, nor doe the thing that shall not be acceptable in thy sight:
+<note place="margin">2 Cor. 5.21.</note> for <hi>thou wert made sinne for us, that knewest no sinne, that we might be made the Righteous<g ref="char:EOLhyphen"/>nesse of God in thee:</hi> Oh unspeake<g ref="char:EOLhyphen"/>able mercy! Oh gracious Act! he was made sinne for us, that wee might be made righteousnesse in him.</p>
+            <p>Saint <hi>Chrysostome</hi> pondering those words of the Apostle, breakes forth into this passion <hi>Quis sermo, qu<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Mens ista prae<g ref="char:EOLhyphen"/>dicare potest? Iustum (inquit) fecit peccatorem, ut peccatores fa<g ref="char:EOLhyphen"/>ceret justos, imò neque sic dixit, sed quod multò majus erat, non enim habitum posuit, sed ipsam quali<g ref="char:EOLhyphen"/>tatem, non dixit peccatorem, sed peccatum, ut nos fiamus, non dixit Iusti, sed justitia, &amp; justitia Dei:</hi> that is, what speech, what minde, can declare these things? He made (saith he) the righteous a sinner, that he might make sinners righ<g ref="char:EOLhyphen"/>teous,
+<pb n="20" facs="tcp:235:15"/>nay he sayd not so: but which is much more, for he put not the habit, but the very qua<g ref="char:EOLhyphen"/>lity; he sayd not hee was made a finner, but sinne; that wee might be made (he saith not) righteous, but Righteousnesse also, the righteousnesse of God in him.</p>
+            <p>Oh heavenly Tidings! oh heart-rejoycing newes! Christ did not onely dye, that our sinnes might dye in him, but he revived that his righteousnesse might live in us: we are then made righte<g ref="char:EOLhyphen"/>ous, not by the righteousnesse of the Law, but by the righteousnesse of Christ.</p>
+            <p>Oh how happy are they that hunger and thirst after this righ<g ref="char:EOLhyphen"/>teousnesse, that cry with S. <hi>Ber<g ref="char:EOLhyphen"/>nard, Iesus esto mihi Iesus,</hi> Iesus be my Iesus, that is, my Saviour; that as <hi>Boaz</hi> covered <hi>Ruth</hi> with the skirt of his garment,
+<note place="margin">Ruth. 3.9</note> so Christ may cover our sinnes with the Robe of his righteousnesse. Happy, yea thrice happy are
+<pb n="21" facs="tcp:235:15"/>those Soules, that can finde their nakednesse, and come to Christ to be cloathed: or as S. <hi>Cyprian</hi> speaketh, can make themselves cloathes of the wooll of the <hi>Lambe,</hi>
+               <note place="margin">Psal. 32.</note> that so their <hi>iniquitie may be forgiven, and their sinnes covered: Happy are the people that are in such a case,
+<note place="margin">Psal. 144. v. ult.</note> yea blessed are the people that have the Lord for their God.</hi>
+            </p>
+            <p>But this is onely the righte<g ref="char:EOLhyphen"/>ousnesse of Imputation or deno<g ref="char:EOLhyphen"/>mination, which wee obtaine by faith in Christ Iesus; there is another righteousnesse of Infu<g ref="char:EOLhyphen"/>sion which he worketh in us by the operation of his blessed Spi<g ref="char:EOLhyphen"/>rit: <hi>For if Christ be in you, the Spi<g ref="char:EOLhyphen"/>rit is life because of righteousnes.</hi>
+               <note place="margin">Rom. 8.10.</note> By the first wee are justified be<g ref="char:EOLhyphen"/>fore God, by the second wee are sanctified before God and men; by the first we are made, by the second we are approoved to bee the sonnes of God. And this easily reconcileth the see<g ref="char:EOLhyphen"/>ming
+<pb n="22" facs="tcp:235:16"/>contradiction of the two blessed Apostles.
+<note place="margin">Rom. 3.28.</note> S. <hi>Paul conclu<g ref="char:EOLhyphen"/>deth that we are justified by faith without the workes of the Law.</hi> And S. <hi>Iames,
+<note place="margin">Iam. 2.24,</note> you see a man is ju<g ref="char:EOLhyphen"/>stified by his good workes and not by faith onely.</hi>
+            </p>
+            <p>What, doe the Apostles then dissent? God forbid, No, they are guided by the Spirit of truth, and therefore cannot chuse but speake one and the same truth; we must therefore looke into the diverse intents that the Apostles had in the writing of their Epi<g ref="char:EOLhyphen"/>stles. For Saint <hi>Paul</hi> speaking of the very Act of justification, ex<g ref="char:EOLhyphen"/>cludeth workes, because justifica<g ref="char:EOLhyphen"/>tion is the immediate act of faith laying assured hold upon Christ Iesus, who rose againe for our justification. But S. <hi>Iames</hi> speaketh of the person justified, in whom there must appeare the beauty of good workes, or else he can neither assure himselfe nor be assured that hee is justified in the
+<pb n="23" facs="tcp:235:16"/>eyes of God. To make this yet more evident, I must intreate you to observe that in all things there are two beginnings, there is a beginnig of existence by which a thing is; and there is a begin<g ref="char:EOLhyphen"/>ning of knowledge by which it is knowne to be. Let us observe these, first in the life of Nature, and then apply them to the life of Grace. In the life of Na<g ref="char:EOLhyphen"/>ture there are two begin<g ref="char:EOLhyphen"/>nings, the first, <hi>principium Ex<g ref="char:EOLhyphen"/>istentiae,</hi> the beginning of exi<g ref="char:EOLhyphen"/>stence by which we are: the se<g ref="char:EOLhyphen"/>cond is <hi>principium cognitionis,</hi> the beginning of knowledge, by which we are knowne to be. The beginning of existence by which we live, is the soule of man, for this is the life of our lives infor<g ref="char:EOLhyphen"/>ming our bodyes that they may live; but the beginning of know<g ref="char:EOLhyphen"/>ledge is breath, by which wee are assured that we doe live, and yet breath is not the cause of life, but the signe; for the soules aboade
+<pb n="24" facs="tcp:235:17"/>makes the body live, &amp; the breath is but a messenger to tel us that the soule is there. Let us then apply this to the life of grace: the soule of our lives, or the life of our soules, is Faith, for the just shall live by his faith, which is the be<g ref="char:EOLhyphen"/>ginning of existence by which we live the life of grace: but the beginning of Knowledge is workes, by which we are assured that our faith liveth in us: not that we attribute the cause of our life of grace to workes, no more than wee attribute the life of nature to our breath; but this is the sole worke of faith, which is the soule of our spirituall being. Faith then is the soule, and workes the breath; the one the cause, the o<g ref="char:EOLhyphen"/>ther the effect of life; and yet as when we cease to breath, we cease to live; so Faith without workes is dead also: There can bee no se<g ref="char:EOLhyphen"/>paration of these in the person justified: for faith cannot bee without workes, nor workes
+<pb n="25" facs="tcp:235:17"/>without faith: he that actually se<g ref="char:EOLhyphen"/>parateth these in his life, let him know that all that he thinkes of his salvation is but a dreame.</p>
+            <p>See now I beseech you how the Apostles accord in an Vnison of truth. S. <hi>Paul</hi> speaking of the beginning of existence, by which wee begin to live the life of Grace, ascribes it onely unto faith without workes: But S. <hi>Iames</hi> speaking of knowledge which is the breath by which wee are knowne to live, tells us wee are justified by workes, and not by faith onely; so then there is no difference betwixt the blessed Apostles. For S. <hi>Paul</hi> speaketh of the soule of justification, which is faith; and S. <hi>Iames</hi> of the breath, which is workes. For saith he, <hi>shew me thy faith by thy workes, &amp;c.</hi>
+            </p>
+            <p>Excellently to this end speaketh S. <hi>Bernard,
+<note place="margin">
+                     <hi>Ber. de Resur: Ser.</hi> 2.</note> Fidei vitam Opera testantur, sicut enim Corporis hu<g ref="char:EOLhyphen"/>jus vita ex motu dignoscitur, ita
+<pb n="26" facs="tcp:235:18"/>&amp; fidei vita ex operibus bonis:
+<note place="margin">
+                     <hi>Ber. de res. Serm,</hi>
+                     <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>6.</note> Vita Corporis est anima, per quam movetur, Vita fidei charitas, quia per illam operatur,</hi> that is, As the life of the body is knowne by motion, so workes testifie the life of faith: the soule is the life of the body by which it moves, and charity is the life of faith by which it workes.</p>
+            <p>For Christs Righteousnesse cannot profit us, unlesse it bee made ours; and it cannot be made ours, but by a true and lively faith; and that is noe lively faith that doth not worke by love:
+<note place="margin">
+                  <hi>Ber de <gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oen. dom. Ser.</hi> 8.</note>
+               <hi>&amp; pro<g ref="char:EOLhyphen"/>batio Dilectionis exhibitio est ope<g ref="char:EOLhyphen"/>ris,</hi> as Saint <hi>Bernard</hi> sweetely: The probation of our love is the exhibition of our workes.</p>
+            <p>Take away our workes, and you bereave us of our love; be<g ref="char:EOLhyphen"/>reave us of our love, and you de<g ref="char:EOLhyphen"/>prive us of our faith: deprive us of our faith and we shall never be able to apprehend Christ. Christ thē must be apprehended by faith,
+<pb n="27" facs="tcp:235:18"/>faith must be informed by love, and love must bee approved by workes: so then though by faith alone we are justified, yet by faith which is alone we are not justifi<g ref="char:EOLhyphen"/>ed; we are justified by faith alone, speaking of the Act of Iustificati<g ref="char:EOLhyphen"/>on, but faith if it be alone,
+<note place="margin">Plut. in Apoth.</note> cannot justifie the person that is to bee justified.</p>
+            <p>
+               <hi>Plutarch</hi> tells us, that the <hi>La<g ref="char:EOLhyphen"/>cedaemonians</hi> gave unto their young souldiers <hi>scutum sine sche<g ref="char:EOLhyphen"/>mate,</hi> a shield without an Im<g ref="char:EOLhyphen"/>presse, and these were accounted <hi>Inglorij</hi> without honour, till by their valour they had acheived some impresse, to bee painted on their shields, Tis true, that God hath given us <hi>scutum fidei</hi> the shield of faith, but it is <hi>scutum fine schemate,</hi> it wants it's im<g ref="char:EOLhyphen"/>presse till we have adorned it with the workes of piety, of purity, and of charity.</p>
+            <p>And this is the third thing ob<g ref="char:EOLhyphen"/>served in the words, that the
+<pb n="28" facs="tcp:235:19"/>righteousnesse that leades to the kingdome of heaven, must be our owne; your righteousnesse enters into the kingdome of heaven, heere's our worke.</p>
+            <p>The Pope beareth men in hand, that he hath a treasury of other folkes righteousnesse to dispense of at his pleasure, to helpe men into the kingdome of heaven. But our Saviour tells us, that if wee have not righteousnesse of our owne, we shall never enter into that blessed kingdome.</p>
+            <p>And this righteousnesse may well be called <hi>justitia acquisita</hi> an acquired justice, because by the assistance of Gods sacred Spirit we increase in grace, and goe from strength to strength, adding vertue to vertue, <hi>working out our Salvation with feare and trem<g ref="char:EOLhyphen"/>bling:</hi> for albeit God hath pro<g ref="char:EOLhyphen"/>mised that we shall have what we aske, finde when wee seeke, and he admitted when we knocke; yet this promise is grounded upon a
+<pb n="29" facs="tcp:235:19"/>precept, <hi>Aske, Seeke, Knocke,</hi> so saith the Text, <hi>Aske, and you shall have; Seeke, and you shall finde;
+<note place="margin">Mat. 7.7.</note> Knocke, and it shall be opened unto you.</hi>
+            </p>
+            <p>God will have us put his Ta<g ref="char:EOLhyphen"/>lents out to use, and will not suffer any one to be idle.
+<note place="margin">Ber. in verb. Bea<g ref="char:EOLhyphen"/>tus homo &amp;c.</note>
+               <hi>Cum enim Adam</hi> (saith Saint <hi>Bernard) in loco Voluptatis positus est ut opera<g ref="char:EOLhyphen"/>retur: quis sanus sapiens filios ejus in loco afflictionis, positos ad Feriandum esse arbitraretur:</hi> that is, when <hi>Adam</hi> was placed to worke in a place of pleasure, what man is that, that is right in his wits, that will thinke that we are placed in the place of affliction to keepe holidayes? No, <hi>Conducti sumus non ad ociandum, sed ad ope<g ref="char:EOLhyphen"/>randum,</hi> We are hyred by God in our Baptisme, not to loyter, but to labour, <hi>non ad ociandum in Via sed ad operandum in Vinea,</hi> not to loyter in the way, but to la<g ref="char:EOLhyphen"/>bour in the Vineyard: for christi<g ref="char:EOLhyphen"/>anity is a Race, and we must make
+<pb n="30" facs="tcp:235:20"/>haste to <hi>runne the way of Gods Commandements,</hi> if we looke to be saved: The foolish Virgins we know must be excluded, and the fruitlesse Figtree must bee cursed; for in the day of judge<g ref="char:EOLhyphen"/>ment, we shall be judged accor<g ref="char:EOLhyphen"/>ding to our Workes.
+<note place="margin">Iudg. 12.6.</note> Wee reade that when the <hi>Gileadites</hi> had o<g ref="char:EOLhyphen"/>verthrowne the <hi>Ephramites,</hi> and had taken the passages of <hi>Iordan,</hi> they slew all that pronounced <hi>Sib<g ref="char:EOLhyphen"/>boleth</hi> insteed of <hi>Shibboleth.</hi> Now <hi>Shibboleth</hi> (as those y<seg rend="sup">t</seg> are learned in that tongue observe) signifieth full, but <hi>Sibboleth</hi> empty Eares; to which if we may add what Saint <hi>Hierome</hi> hath observed, that <hi>Ior<g ref="char:EOLhyphen"/>dan</hi> signifieth the Floud of judg<g ref="char:EOLhyphen"/>ment, we finde this excellent Al<g ref="char:EOLhyphen"/>legory, That in the day of Iudge<g ref="char:EOLhyphen"/>ment, the full Eares onely, and not the empty, shall escape the wrathfull indignation of God: For as God giveth freely, so hee exacteth severely; hee expects foure Talents for two, and
+<pb n="31" facs="tcp:235:20"/>tenne for five. Happy are they then, that spend their dayes in his feare, that they may end them in his favour; that never content themselves sufficiently in the workes of righteousnesse, but still desire to doe more; according to the Precept, <hi>Let him that is righteous be more righteous still.</hi>
+               <note place="margin">
+                  <hi>Rev.</hi> 2<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>Now this righteousnesse loo<g ref="char:EOLhyphen"/>keth two wayes, upward to<g ref="char:EOLhyphen"/>wards God, and downeward towards men as it looketh to<g ref="char:EOLhyphen"/>wards God, it consisteth in the zealous performance of all religi<g ref="char:EOLhyphen"/>ous dutyes, as hearing, fasting, praying, receiving, and all other dutyes of Evangelicall piety: as it looketh towards men, it consisteth in giving every one his owne. <hi>Tribute to whom tribute is due,
+<note place="margin">Rom. 1<gap reason="illegible: faint" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.7.</note> Custome to whom Custome, Feare to whom Feare, Honour to whom Honour belongeth,</hi> for we can ne<g ref="char:EOLhyphen"/>ver be righteous in the eyes of the God of heaven, if we doe not desire to be subject in all righte<g ref="char:EOLhyphen"/>ousnesse
+<pb n="32" facs="tcp:235:21"/>to his Vice-gerents in earth: I may adde to this, that we must give almes to whom almes pertaineth;
+<note place="margin">Stips pauperum the saurus divitum sayd Ti<g ref="char:EOLhyphen"/>ber. const.</note> for this is the rule of justice, that our abundance must satisfie our brothers want; rich men are the Cedars of Gods <hi>Li<g ref="char:EOLhyphen"/>banon,</hi> they must suffer the little birds not onely to sit, but to sing among their branches: and what was the reason why <hi>Dives</hi> was damned, was it for turning <hi>La<g ref="char:EOLhyphen"/>zarus</hi> out of house and home<g ref="char:EOLhyphen"/>stall? (a thing too usuall in this Iron age) no, there is no such thing in the Text: if you will know the cause, Saint <hi>Augustine</hi> will tell you, that it was <hi>Non quia abstulit alienum, sed quia non de<g ref="char:EOLhyphen"/>tulit suum,</hi> Not because he tooke away that which was anothers, but because hee gave not that which was his owne.</p>
+            <p>Happy are they that kisse Christs bleeding wounds, and heale them up with the Balme of mercy: <hi>That make friends of the
+<pb n="33" facs="tcp:235:21"/>unrighteous Mammon, that they may be received into everlasting habitations;
+<note place="margin">Luke 16.9. Ps. 112.9</note> for he that disperseth and giveth to the poore, his righte<g ref="char:EOLhyphen"/>ousnesse shall endure for ever, his horne shall be exalted with honour.</hi> And that this is the proper recog<g ref="char:EOLhyphen"/>nizance of the blessed man, ap<g ref="char:EOLhyphen"/>peares by the Psalmist in that hee compares him to a tree,
+<note place="margin">Ps. 1.3:</note> and that not every tree, but a tree planted, and that not in every place, but by the rivers of waters, to this espe<g ref="char:EOLhyphen"/>ciall end, that he may bring forth not flowers but fruite, and that not of another mans, but his owne; and that not at any time, but in his due season: and the man that is thus fruitefull, shall enjoy a perpetuall Spring; for his leafe shall not fade, but whatsoever he doth it shall prosper; onely heere we must have a speciall care, not to cackle out our good deedes, or to blow the Trumpet of our owne prayse, for so did the Pha<g ref="char:EOLhyphen"/>rises, whose righteousnesse if we exceed not, we shall not enter in<g ref="char:EOLhyphen"/>to
+<pb n="34" facs="tcp:235:22"/>the kingdome of heaven.</p>
+            <p>And this is the fourth thing ob<g ref="char:EOLhyphen"/>served, namely the rule to direct us in the worke of righteous<g ref="char:EOLhyphen"/>nesse, which is, that it must be an exceeding righteousnesse, <hi>For ex<g ref="char:EOLhyphen"/>cept your righteousnesse exceede, &amp;c.</hi>
+            </p>
+            <p>Now the Scribes and Pharisees are branded by our Saviour for a twofould corruption, first in do<g ref="char:EOLhyphen"/>ctrine, and then in conversation. Their corruption in doctrine, our Saviour tearmeth <hi>Leaven,</hi>
+               <note place="margin">Mat. 16.6. <hi>Hier. in b Verb.</hi>
+               </note> and gives a speciall charge to his A<g ref="char:EOLhyphen"/>postles to take heede of it: Now what is meant there by Leaven, Saint <hi>Hierome</hi> tells us <hi>Fermen<g ref="char:EOLhyphen"/>tum pharisaeorum &amp;c. non corpora<g ref="char:EOLhyphen"/>lem panem, sed traditiones perver<g ref="char:EOLhyphen"/>sas &amp; haeretica significat dogma<g ref="char:EOLhyphen"/>ta,</hi> that is, the leaven of the Pha<g ref="char:EOLhyphen"/>risees, signifies not corporall bread, but perverse Traditions and haereticall opinions. But of this their corruption, I thinke our Saviour speaketh not in this place.</p>
+            <pb n="35" facs="tcp:235:22"/>
+            <p> They were tainted then with a second corruption, and that was in their conversation, when they would seeme to doe religious workes, but it was onely to bee seene of men. Hypocrisie tainted their Actions,
+<note place="margin">Math. 23</note> and therefore are they branded by our Saviour, se<g ref="char:EOLhyphen"/>ven times in one chapter with the title of Hypocrites: we must not then forbeare to doe what they did (so it be sutable to the law of God) but we must forbeare to doe it as they did; for if our heart bee not upright, our actions will bee out of square: tis true, that men waigh our hearts by our actions, but God weigheth our actions by our hearts; if our righteousnesse be not placed in the heart, we are no better than the Scribes and Pharisees, and yet marke our Doome, <hi>For if our righteousnesse exceede not the righteousnesse of the Scribes and Pharisees, we shall in no case enter into the Kingdome of heaven.</hi>
+            </p>
+            <p>The hypocrite of all men is the
+<pb n="36" facs="tcp:235:23"/>most abhominable in the eyes of God, whereas the <hi>Vpright in heart are his delight.</hi> For conclu<g ref="char:EOLhyphen"/>sion then, that we may abandon the one, and embrace the other, I will decipher them both by way of character, and so conclude.</p>
+            <p>And first I will decipher the hypocrite, who is a thing, or ra<g ref="char:EOLhyphen"/>ther nothing; for a thing is a sub<g ref="char:EOLhyphen"/>stance, but he is onely accidents, or if he be a thing, he is the worst of things, for hee dares not ap<g ref="char:EOLhyphen"/>peare as he is, being like the Idoll <hi>Bell,</hi> gold without, but nothing but clay and dirt within: Hee is a shining Gloworme, fire in ap<g ref="char:EOLhyphen"/>pearing, and frost in feeling; not unlike to Mount <hi>Aetna</hi> which burnes in the head, but is cold at the heart: his apparrell is of Lin<g ref="char:EOLhyphen"/>sie Woolsie, for his inward subtil<g ref="char:EOLhyphen"/>ty is concealed under the habit of outward simplicity, his conver<g ref="char:EOLhyphen"/>sation, is like a payre of snuffers, that currishly snuffes filth from others, that he may more freely retaine it in himself: he is like our
+<pb n="37" facs="tcp:235:23"/>watermen, that looke one way and row another; for though with <hi>Lots</hi> wife, his eyes are set upon <hi>Zoar,</hi> yet his heart is at <hi>Sodome:</hi> For his religion, he liketh better of the wisedome of Serpents, than of the innocency of Doves: Hee is a Christian with the wrong side outward, for they lodge pie<g ref="char:EOLhyphen"/>ty and pitty in their hearts, and he allowes it lodging onely in his tongue; and so he may seeme glo<g ref="char:EOLhyphen"/>rious in the eyes of men, he cares not how ugly hee appeares in the Sight of God; in a word, though he be filthier than swine, more greedier than dogges, craftier than Foxes, crueller than Lyons, and more ravenous than Beares, yet he will endevour to appeare an Angell of light, <hi>having a forme of godlinesse,
+<note place="margin">2 Tim 3.5.</note> but denying the power thereof.</hi>
+            </p>
+            <p>Good God! can such men breathe to halt before so just a judge? doe they thinke thy cleare eyes are clouded, that thou canst not see their dissimulation? Well:
+<pb n="38" facs="tcp:235:24"/>if willingly they will not learne in the dayes of mercie, unwilling<g ref="char:EOLhyphen"/>ly thou shalt teach them in the day of justice, that <hi>Except their righteousnesse, &amp;c.</hi>
+            </p>
+            <p>I promised also to decipher sin<g ref="char:EOLhyphen"/>cerity, which is that blessed ver<g ref="char:EOLhyphen"/>tue, that addes wings to our righ<g ref="char:EOLhyphen"/>teousnesse to flye up to the king<g ref="char:EOLhyphen"/>dome of heaven: Sincerity (then) is the salt of vertue, without which even vertue her selfe would proove unseasonable: she is the Nurse of faith, and touchstone of charity; her heart and her hand, her words and her workes goe together. Shee can hardly doe ill, for her intent is alwayes to doe well, she is not double faced with <hi>Ianus,</hi> nor lookes a squint, but with the eyes of modesty, she pierceth into the bosome of Verity. Her feete are stedfast in the way of truth, and she scornes to halt (with <hi>Israel</hi>) betwixt two opinions. She is, what she seemes to be, and her outward seeming issueth from
+<pb n="39" facs="tcp:235:24"/>her inward being: She turnes her curiositie inwards, and can easilyer finde a Mote in her owue, than a Beame in her bro<g ref="char:EOLhyphen"/>thers eye: She approves her selfe dayly to her God, and cares not how men doe neglect her, so he will daigne to respect her: She accounts this worlds losse, her greatest gaine; so that at last shee may save her soule: Riches and preferment cannot move her from her stability, for she is foun<g ref="char:EOLhyphen"/>ded upon the rocke; Misery and misfortune may oppresse her, but they shall never suppresse her, they are things beneath her, and she beholds them with a disdain<g ref="char:EOLhyphen"/>full eye: In a word she is the ce<g ref="char:EOLhyphen"/>ment and sinnewes of all other vertues, for without sincerity,
+<note place="margin">1 Tim. 1.5. Ioel. 2 12 Ia. 3.17. &amp; 1 Pet. 1, 22.</note> faith proves infidelity; conver<g ref="char:EOLhyphen"/>sion, subversion; wisedome, fol<g ref="char:EOLhyphen"/>ly, and charity hypocrisie.</p>
+            <p>And this is the blessed vertue that I would have walke, hand in hand with righteousnesse, that we might doe just things justly,
+<pb n="40" facs="tcp:235:25"/>that we being made the Actuall members of Christ Iesus, may approove our selves to bee so in all righteousnesse and holinesse; that with upright heart and sin<g ref="char:EOLhyphen"/>cere Soules, we may performe the end of our redemption, which is <hi>to serve (God) in holinesse and righteousnesse all the dayes of our life;</hi>
+               <note place="margin">Luke 1.75.</note> that the course of our race being squared according to the rule of perfect sincerity, our righteousnesse may exceede the righteousnesse of the Scribes and Pharisees, that in the end, wee may enter into the kingdome of heaven. To which he bring us that hath so deerely bought us, Iesus Christ the righteous, to whom with the Father and the holy Ghost, bee ascribed all Ho<g ref="char:EOLhyphen"/>nour, Glory, Praise, Power, and dominion, of us, of Angels, and of all men, now and for evermore, <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:235:25"/>
+         </div>
+      </body>
+   </text>
+</TEI>
